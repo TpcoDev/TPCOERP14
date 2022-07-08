@@ -16,8 +16,6 @@
     'data': [
         #'security/ir.model.access.csv',
         'views/generar_boletas_views.xml',
-        #'views/attributes_views.xml',
-        #'views/menus.xml',
     ],
     # only loaded in demonstration mode
     'demo': [],

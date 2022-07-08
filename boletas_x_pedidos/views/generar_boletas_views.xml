@@ -8,7 +8,6 @@
             <field name="binding_view_types">form,list</field>
             <field name="state">code</field>
             <field name="code">action = records.action_generar_boletas()</field>
-<!--            <field name="domain">[('state', '=', 'sale')]</field>-->
         </record>
 
         <record id="view_partner_form_inherit" model="ir.ui.view">
